@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Qbery&#39;s blog</title>
+  
+  <subtitle>Output is input.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.qbery.com/"/>
+  <updated>2020-04-15T15:52:48.852Z</updated>
+  <id>http://blog.qbery.com/</id>
+  
+  <author>
+    <name>Qbery</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ARM Linux启动过程</title>
+    <link href="http://blog.qbery.com/2020/04/09/ARM-Linux%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B/"/>
+    <id>http://blog.qbery.com/2020/04/09/ARM-Linux%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B/</id>
+    <published>2020-04-09T02:30:00.000Z</published>
+    <updated>2020-04-15T15:52:48.852Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ARM Linux的启动流程大致分为：BootLoader-&amp;gt;Kernel-&amp;gt;Rootfs-&amp;gt;Application。&lt;/p&gt;
+&lt;p&gt;此处记录一下BootLoader的启动过程：&lt;/p&gt;
+&lt;p&gt;BootLoader的主要任务就是将内核映象读到 RAM 中，
+      
+    
+    </summary>
+    
+    
+      <category term="嵌入式软件系统" scheme="http://blog.qbery.com/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="嵌入式" scheme="http://blog.qbery.com/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+      <category term="ARM" scheme="http://blog.qbery.com/tags/ARM/"/>
+    
+      <category term="Linux" scheme="http://blog.qbery.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>相机标定学习笔记(三)</title>
+    <link href="http://blog.qbery.com/2020/04/08/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B03/"/>
+    <id>http://blog.qbery.com/2020/04/08/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B03/</id>
+    <published>2020-04-08T09:38:00.000Z</published>
+    <updated>2020-04-15T15:52:48.853Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;单目相机标定实验（MATLAB）&quot;&gt;&lt;a href=&quot;#单目相机标定实验（MATLAB）&quot; class=&quot;headerlink&quot; title=&quot;单目相机标定实验（MATLAB）&quot;&gt;&lt;/a&gt;单目相机标定实验（MATLAB）&lt;/h3&gt;&lt;h4 id=&quot;MATLAB标定流
+      
+    
+    </summary>
+    
+    
+      <category term="相机标定" scheme="http://blog.qbery.com/categories/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/"/>
+    
+    
+      <category term="机器视觉" scheme="http://blog.qbery.com/tags/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89/"/>
+    
+      <category term="张正友标定法" scheme="http://blog.qbery.com/tags/%E5%BC%A0%E6%AD%A3%E5%8F%8B%E6%A0%87%E5%AE%9A%E6%B3%95/"/>
+    
+      <category term="MATLAB" scheme="http://blog.qbery.com/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>相机标定学习笔记(二)</title>
+    <link href="http://blog.qbery.com/2020/04/07/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02/"/>
+    <id>http://blog.qbery.com/2020/04/07/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B02/</id>
+    <published>2020-04-07T11:43:32.000Z</published>
+    <updated>2020-04-15T15:52:48.853Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;相机标定的原理&quot;&gt;&lt;a href=&quot;#相机标定的原理&quot; class=&quot;headerlink&quot; title=&quot;相机标定的原理&quot;&gt;&lt;/a&gt;相机标定的原理&lt;/h3&gt;&lt;h4 id=&quot;非线性畸变的来源&quot;&gt;&lt;a href=&quot;#非线性畸变的来源&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+      <category term="相机标定" scheme="http://blog.qbery.com/categories/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/"/>
+    
+    
+      <category term="机器视觉" scheme="http://blog.qbery.com/tags/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89/"/>
+    
+      <category term="张正友标定法" scheme="http://blog.qbery.com/tags/%E5%BC%A0%E6%AD%A3%E5%8F%8B%E6%A0%87%E5%AE%9A%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>相机标定学习笔记(一)</title>
+    <link href="http://blog.qbery.com/2020/04/07/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://blog.qbery.com/2020/04/07/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-04-07T10:00:00.000Z</published>
+    <updated>2020-04-15T15:52:48.852Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;相机标定的目的&quot;&gt;&lt;a href=&quot;#相机标定的目的&quot; class=&quot;headerlink&quot; title=&quot;相机标定的目的&quot;&gt;&lt;/a&gt;相机标定的目的&lt;/h3&gt;&lt;p&gt;相机标定的最终目的是通过相机成像进行视觉测量，也就是通过图像的信息获取真实三维世界里的位置信息，而标
+      
+    
+    </summary>
+    
+    
+      <category term="相机标定" scheme="http://blog.qbery.com/categories/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A/"/>
+    
+    
+      <category term="机器视觉" scheme="http://blog.qbery.com/tags/%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89/"/>
+    
+      <category term="张正友标定法" scheme="http://blog.qbery.com/tags/%E5%BC%A0%E6%AD%A3%E5%8F%8B%E6%A0%87%E5%AE%9A%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>递归学习笔记</title>
+    <link href="http://blog.qbery.com/2020/04/04/%E9%80%92%E5%BD%92%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://blog.qbery.com/2020/04/04/%E9%80%92%E5%BD%92%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-04-04T11:01:13.000Z</published>
+    <updated>2020-04-15T15:52:48.853Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;什么是递归&quot;&gt;&lt;a href=&quot;#什么是递归&quot; class=&quot;headerlink&quot; title=&quot;什么是递归&quot;&gt;&lt;/a&gt;什么是递归&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;递归算法是一种直接或者间接调用自身函数或者方法的算法。&lt;/p&gt;
+&lt;/blockquote&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="开发日记" scheme="http://blog.qbery.com/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="开发" scheme="http://blog.qbery.com/tags/%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="算法" scheme="http://blog.qbery.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
