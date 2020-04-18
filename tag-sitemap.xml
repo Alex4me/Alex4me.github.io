@@ -3,21 +3,21 @@
 
 
     <url>
-        <loc>http://blog.qbery.com/tags/MATLAB/</loc>
-        <lastmod>2020-04-18T06:57:19.786Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://blog.qbery.com/tags/%25E5%25BC%25A0%25E6%25AD%25A3%25E5%258F%258B%25E6%25A0%2587%25E5%25AE%259A%25E6%25B3%2595/</loc>
-        <lastmod>2020-04-18T06:57:19.786Z</lastmod>
+        <lastmod>2020-04-18T12:37:22.766Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://blog.qbery.com/tags/%25E6%259C%25BA%25E5%2599%25A8%25E8%25A7%2586%25E8%25A7%2589/</loc>
+        <lastmod>2020-04-18T12:37:22.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.qbery.com/tags/MATLAB/</loc>
         <lastmod>2020-04-18T06:57:19.786Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
